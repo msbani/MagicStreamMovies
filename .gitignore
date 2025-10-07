@@ -1,0 +1,9 @@
+# OS files
+.DS_Store
+.vscode/
+
+# Environment files
+Client/magic-stream-client/.env
+Server/MagicStreamServer/.env
+.env
+*.env
