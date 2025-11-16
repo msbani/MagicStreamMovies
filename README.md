@@ -118,7 +118,7 @@ npm run dev
 ## Live Demo
 
 This application is deployed and live on Render. You can access the live version here: 
-[Magic Stream Movies](https://magicstreammovies-1.onrender.com)
+[Magic Stream Movies](https://magic-stream-movies.vercel.app/)
 
 - Backend is hosted on Render  
 - Frontend is hosted on Vercel  
