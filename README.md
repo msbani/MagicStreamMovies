@@ -115,6 +115,20 @@ npm run dev
 
 ---
 
+## Live Demo
+
+This application is deployed and live on Render. You can access the live version here: 
+[Magic Stream Movies](https://magicstreammovies-1.onrender.com)
+
+- Backend is hosted on Render  
+- Frontend is hosted on Vercel  
+
+<p align="center">
+  <img src="UI.png" alt="Weather App UI Preview" width="480">
+</p>
+
+---
+
 ## Technologies Used
 
 - **Frontend**: React, Vite, React-Bootstrap, Axios, React Router
@@ -160,6 +174,8 @@ This project is for educational and demo purposes. For production deployments, s
 ---
 
 ## Credits
-
-Developed by msbani and contributors.  
-Uses [Gin](https://gin-gonic.com/), [MongoDB Go Driver](https://www.mongodb.com/docs/drivers/go/current/), [OpenAI API](https://platform.openai.com/), and [React](https://react.dev/).
+ 
+- Gin: https://gin-gonic.com/
+- MongoDB Go Driver: https://www.mongodb.com/docs/drivers/go/current/
+- OpenAI API: https://platform.openai.com/
+- React: https://react.dev/
