@@ -8,7 +8,7 @@ Magic Stream Movies is a full-stack web application providing movie streaming an
 
 - **User Authentication**: Secure registration, login, refresh, and logout options with JWT tokens and HTTP-only cookies.
 - **Homepage**: Shows a list of all movies fetched from the backend.
-- **Streaming**: Users can stream movies directly via embedded YouTube links.
+- **Streaming**: Users can stream movies directly via embedded YouTube links (only **movie trailers** are played for demo perpose).
 - **Personalized Recommendations**: Authenticated users can view recommended movies based on their favorite genres.
 - **Review & Ranking**: Admins can update movie reviews. Rankings are assigned automatically via OpenAI sentiment analysis.
 - **Genre Selection**: Users select favorite genres during registration, which tailor recommendations.
