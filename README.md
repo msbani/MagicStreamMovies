@@ -124,7 +124,7 @@ This application is deployed and live on Render. You can access the live version
 - Frontend is hosted on Vercel  
 
 <p align="center">
-  <img src="UI.png" alt="Weather App UI Preview" width="480">
+  <img src="UI.png" alt="UI Preview" width="480">
 </p>
 
 ---
