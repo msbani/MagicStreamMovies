@@ -1,6 +1,6 @@
 # Magic Stream Movies
 
-Magic Stream Movies is a full-stack web application providing movie streaming and recommendations, featuring user authentication, personalized experiences, and AI-enhanced review ranking. The project leverages a React frontend (Vite + React-Bootstrap UI) and a Go backend (Gin + MongoDB), with robust JWT-based authentication and OpenAI-powered review sentiment analysis.
+Magic Stream Movies is a full stack web application providing movie streaming and recommendations, featuring user authentication, personalized experiences, and AI enhanced review ranking. The project leverages a React frontend (Vite + React Bootstrap UI) and a Go backend (Gin + MongoDB), with robust JWT based authentication and OpenAI powered review sentiment analysis.
 
 ---
 
@@ -13,7 +13,7 @@ Magic Stream Movies is a full-stack web application providing movie streaming an
 - **Review & Ranking**: Admins can update movie reviews. Rankings are assigned automatically via OpenAI sentiment analysis.
 - **Genre Selection**: Users select favorite genres during registration, which tailor recommendations.
 - **Responsive UI**: Built with React-Bootstrap for seamless navigation and modern look.
-- **Protected Routes**: Auth middleware restricts recommended, review, and streaming endpoints to logged-in users.
+- **Protected Routes**: Auth middleware restricts recommended, review, and streaming endpoints to logged in users.
 
 ---
 
